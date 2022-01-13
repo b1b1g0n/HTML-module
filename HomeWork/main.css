@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+}
+.first {
+    background: #efa100;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 90px;
+    margin: 50px;
+    box-shadow: black 20px 20px 0px 0px;
+}
+
+.second {
+    background: #efa100;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 90px;
+    margin: 50px;
+    box-shadow: black 20px 20px 5px -5px;
+}
+.thris {
+    background: #efa100;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 90px;
+    margin: 50px;
+    box-shadow: black 20px 20px 15px 0px;
+}
+.fourth {
+    background: #efa100;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 90px;
+    margin: 50px;
+    box-shadow: gray 30px 30px 6px 3px;
+}
+.fifth {
+    background: #efa100;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 90px;
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: black 20px 20px 4px 0px;
+}
+
+.sixth {
+    background: #efa100;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 85px;
+    margin: 50px;
+    border-radius: 15px;
+    box-shadow: gray 20px 20px 10px 0px;
+}
