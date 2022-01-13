@@ -30,7 +30,7 @@ body {
     justify-content: center;
 }
 
-.thris {
+.thrid {
     background: black;
     height: 50px;
     width: 200px;
@@ -96,3 +96,21 @@ body {
 
 }
 
+.nomeR {
+    background: gray;
+    height: 300px;
+    width: 500px;
+    box-sizing: border-box;
+    margin: 50px;
+    box-shadow: darkorange -20px -22px 15px 7px;
+
+
+}
+
+.block{
+    height: 160px;
+    width: 400px;
+    box-sizing: border-box;
+    border-left: 5px solid red;
+    margin: 20px;
+}
