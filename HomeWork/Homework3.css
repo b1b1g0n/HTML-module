@@ -1,33 +1,37 @@
-#container {
-    background: gray;
-    display: flex;
-}
-
 .a {
-    width: 800px;
-    height: 200px;
+    width: 600px;
+    height: 100px;
     background: black;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 5px;
+
+
+}
+.ro {
+    width: 600px;
+    display: flex;
+
 }
 
-.ro {
-    display: flex;
-}
 .b {
-    width: 200px;
-    height: 200px;
+    width: 450px;
+    height: 400px;
     background: red;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-right: 5px;
 }
 .c {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 400px;
     background: hotpink;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+
 }
