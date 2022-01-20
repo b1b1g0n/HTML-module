@@ -38,7 +38,7 @@
 
 
 .heading {
-    width: 400px;
+    width: 405px;
     height: 100px;
     background: greenyellow;
     display: flex;
@@ -51,7 +51,7 @@
 
 .menu {
     width: 150px;
-    height: 300px;
+    height: 305px;
     background: peru;
     display: flex;
     align-items: center;
@@ -61,11 +61,10 @@
 .main{
     display: flex;
 }
-.un-post{
-    box-sizing: border-box;
-    height: 300px;
-
+.un-post {
+    margin-bottom: 5px;
 }
+
 .post {
     width: 250px;
     height: 150px;
@@ -73,13 +72,47 @@
     display: flex;
     align-items: center;
     justify-content: center;
-
+    margin-bottom: 5px;
 
 }
 .bottom {
-    width: 400px;
+    width: 405px;
     height: 100px;
     background: lightcoral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ws {
+    margin-top: 20px;
+    width: 310px;
+    height: 100px;
+    background: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bbs {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.bs {
+    margin-top: 5px;
+    width: 100px;
+    height: 100px;
+    background: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5px;
+}
+.cs {
+    width: 310px;
+    height: 100px;
+    background: darkblue;
     display: flex;
     align-items: center;
     justify-content: center;
