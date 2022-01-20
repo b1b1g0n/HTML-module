@@ -40,10 +40,38 @@
     justify-content: center;
 }
 
+.Aa {
+    width: 500px;
+    height: 100px;
+    background: saddlebrown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
 .Bb {
     width: 100px;
     height: 100px;
-    background: darkmagenta;
+    background: salmon;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Cc {
+    width: 100px;
+    height: 100px;
+    background: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Ff {
+    width: 200px;
+    height: 200px;
+    background: tomato;
     display: flex;
     align-items: center;
     justify-content: center;
