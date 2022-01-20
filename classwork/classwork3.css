@@ -1,3 +1,7 @@
+.off {
+    margin-bottom: 50px;
+}
+
 .A {
     width: 500px;
     height: 100px;
@@ -36,3 +40,11 @@
     justify-content: center;
 }
 
+.Bb {
+    width: 100px;
+    height: 100px;
+    background: darkmagenta;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
