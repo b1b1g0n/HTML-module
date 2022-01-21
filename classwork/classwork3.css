@@ -12,6 +12,7 @@
     margin-bottom: 5px;
     margin-left: 2.5px;
 }
+
 .B {
     width: 310px;
     height: 100px;
@@ -22,6 +23,7 @@
     margin-bottom: 5px;
     margin-left: 2.5px;
 }
+
 .C {
     width: 100px;
     height: 100px;
@@ -86,4 +88,77 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.Hab {
+    display: flex;
+}
+
+.H {
+    width: 150px;
+    height: 300px;
+    background: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5px;
+}
+
+.Ab {
+    width: 150px;
+    height: 300px;
+    background: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.K {
+    width: 305px;
+    height: 100px;
+    background: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.SBS {
+    display: flex;
+}
+
+.S {
+    width: 100px;
+    height: 100px;
+    background: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2.5px;
+}
+
+.Bk {
+    width: 100px;
+    height: 100px;
+    background: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2.5px;
+
+}
+
+.Sk {
+    width: 100px;
+    height: 100px;
+    background: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.kool > div {
+     color: white;
 }
